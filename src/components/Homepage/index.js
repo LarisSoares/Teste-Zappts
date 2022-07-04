@@ -19,7 +19,7 @@ const Homepage = () => {
               </div>
               <a
                 className="inline-block w-full sm:w-auto px-7 py-4 text-center font-medium bg-[rgb(108,223,185)]  text-white rounded "
-                href="#"
+                href="/Main"
               >
                 Veja os Pokemons
               </a>
